@@ -1,0 +1,11 @@
+{
+    "name": "Pop-up Extension",
+    "version": "1.0.0",
+    "description": "Wishes you Hello",
+    "manifest_version": 3,
+    "author": "Phani",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Hello"
+    }
+}
